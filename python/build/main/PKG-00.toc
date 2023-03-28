@@ -1,0 +1,47 @@
+('\\\\192.168.127.220\\02 '
+ 'Eplan\\Инструкции\\links\\python\\build\\main\\main.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   '\\\\192.168.127.220\\02 '
+   'Eplan\\Инструкции\\links\\python\\build\\main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   '\\\\192.168.127.220\\02 '
+   'Eplan\\Инструкции\\links\\python\\build\\main\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '\\\\192.168.127.220\\02 '
+   'Eplan\\Инструкции\\links\\python\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '\\\\192.168.127.220\\02 '
+   'Eplan\\Инструкции\\links\\python\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '\\\\192.168.127.220\\02 '
+   'Eplan\\Инструкции\\links\\python\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   '\\\\192.168.127.220\\02 '
+   'Eplan\\Инструкции\\links\\python\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\dmitriy\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('main',
+   '\\\\192.168.127.220\\02 Eplan\\Инструкции\\links\\python\\main.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
